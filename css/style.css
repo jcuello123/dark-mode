@@ -1,0 +1,26 @@
+body {
+  width: 250px;
+  background: #2d4254;
+  color: white;
+}
+
+button {
+  width: 25px;
+  height: 25px;
+  border-radius: 8px;
+  margin: 5px;
+  margin-top: 0px;
+}
+
+ul {
+  display: inline;
+}
+button:hover {
+  border: 2px solid white;
+  cursor: pointer;
+}
+
+li {
+  float: left;
+  list-style: none;
+}

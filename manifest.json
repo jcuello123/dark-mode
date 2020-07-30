@@ -15,5 +15,10 @@
     "default_icon": "moon.png",
     "default_popup": "popup.html",
     "default_title": "Dark mode"
+  },
+  "icons": {
+    "16": "moon.png",
+    "48": "moon.png",
+    "128": "moon.png"
   }
 }

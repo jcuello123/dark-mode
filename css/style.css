@@ -1,7 +1,16 @@
 body {
-  width: 250px;
-  background: #2d4254;
+  width: 220px;
+  background: linear-gradient(#000000, #434343);
   color: white;
+}
+
+h2 {
+  margin: 10px;
+}
+
+.image {
+  margin: 0 auto;
+  width: 48px;
 }
 
 button {
@@ -12,12 +21,21 @@ button {
   margin-top: 0px;
 }
 
+#clear {
+  width: auto;
+  height: auto;
+  margin-top: 10px;
+  background: white;
+  color: black;
+  font-weight: bold;
+}
+
 ul {
   display: inline;
 }
 button:hover {
-  border: 2px solid white;
   cursor: pointer;
+  border: 2px solid white;
 }
 
 li {
